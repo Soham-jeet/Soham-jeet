@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Soham
+- Exploring Github in my own way ....
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning ReactJS,Node.js
 - 💞️ Persuing B-Tech in Information Technology(IT) and looking for an internship.
